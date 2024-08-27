@@ -1,0 +1,4 @@
+A101,Edificio A - Primer Piso,30
+A102,Edificio A - Segundo Piso,25
+B201,Edificio B - Primer Piso,40
+B202,Edificio B - Segundo Piso,35

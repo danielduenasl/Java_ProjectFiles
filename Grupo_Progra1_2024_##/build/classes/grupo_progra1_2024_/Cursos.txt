@@ -1,0 +1,5 @@
+101,Matemáticas I,1
+102,Física I,1
+201,Programación II,2
+202,Álgebra Lineal,2
+303,Derecho informatico,1
